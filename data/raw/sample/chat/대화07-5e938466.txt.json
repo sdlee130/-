@@ -1,0 +1,261 @@
+{
+  "_id": {
+    "$oid": "62d62c929bb823b3c8b53df9"
+  },
+  "utterances": [
+    {
+      "event": [
+        {
+          "id": "EVENT_S0_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            3,
+            4
+          ],
+          "text": "가",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            8,
+            9
+          ],
+          "text": "했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            19,
+            20
+          ],
+          "text": "있",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            27,
+            28
+          ],
+          "text": "있",
+          "comment": ""
+        }
+      ],
+      "text": "아직 가보지 못했지만 버킷리스트에 있는 여행지가 있나요?",
+      "timex3": [],
+      "utterance_id": 0,
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S1_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            8,
+            9
+          ],
+          "text": "있",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            27,
+            28
+          ],
+          "text": "가",
+          "comment": ""
+        }
+      ],
+      "text": "저는 스페인에 있는 사그라다 파밀리아 성당을 꼭 가보고 싶어요.",
+      "timex3": [],
+      "utterance_id": 1,
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S2_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            14,
+            15
+          ],
+          "text": "넣",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 2,
+      "text": "언제 그곳을 버킷리스트에 넣었나요?",
+      "timex3": [],
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S3_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            26,
+            27
+          ],
+          "text": "보",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            34,
+            36
+          ],
+          "text": "꽂혀",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 3,
+      "text": "10년 전 고등학교 미술시간에 가우디 작품들을 보다가 마음에 꽂혀버렸습니다.",
+      "timex3": [
+        {
+          "id": "TIME_S3_0",
+          "type": "DATE",
+          "extent": [
+            0,
+            5
+          ],
+          "text": "10년 전",
+          "value": "2012",
+          "calendar": "GREGORIAN",
+          "year": "-10",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S4_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            3,
+            4
+          ],
+          "text": "가",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S4_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            15,
+            16
+          ],
+          "text": "있",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 4,
+      "text": "혹시 가보고 싶은 여행지가 있으신가요?",
+      "timex3": [],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S5_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            18,
+            19
+          ],
+          "text": "가",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            37,
+            38
+          ],
+          "text": "봤",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            47,
+            48
+          ],
+          "text": "않",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            53,
+            54
+          ],
+          "text": "가",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 5,
+      "text": "저는 캐나다에 나이아가라 폭포를 가보고 싶은데 국내 폭포들을 많이 봤지만 성에 차지 않아서 꼭 가보고 싶습니다.",
+      "timex3": [],
+      "who": "User A"
+    }
+  ],
+  "tlink": [
+    {
+      "id": "TLINK_0",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S3_0",
+      "arg2": "EVENT_S3_0",
+      "comment": ""
+    },
+    {
+      "id": "TLINK_1",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S3_0",
+      "arg2": "EVENT_S3_1",
+      "comment": ""
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "chat_category",
+    "Dataset.identifier": "Chat",
+    "Dataset.label_path": "/chat/label",
+    "Dataset.name": "대화 데이터",
+    "Dataset.src_path": "/chat",
+    "Dataset.type": "text/json",
+    "info.category": "대화",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "대화07-5e938466.txt",
+    "info.medianame": "자유 대화",
+    "info.mediatype": "document",
+    "info.title": "대화07-5e938466"
+  },
+  "lastModified": {
+    "$date": "2022-07-26T06:52:51.809Z"
+  }
+}

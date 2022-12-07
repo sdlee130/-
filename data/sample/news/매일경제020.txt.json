@@ -1,0 +1,397 @@
+{
+  "_id": {
+    "$oid": "62d64c5f9bb823b3c8b53e15"
+  },
+  "sentences": [
+    {
+      "event": [],
+      "sentence_id": 0,
+      "text": "유사 공정 12개 제품 중 '더진한초코우유' 부적합 판정",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 1,
+      "text": "'회수계획 미보고'로 GS리테일·동원F&B 행정처분",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S2_0",
+          "class": "REPORTING",
+          "extent": [
+            48,
+            51
+          ],
+          "text": "초과한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            61,
+            64
+          ],
+          "text": "검출됐",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_2",
+          "class": "REPORTING",
+          "extent": [
+            81,
+            83
+          ],
+          "text": "밝혔",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 2,
+      "text": "편의점 GS25의 자체브랜드(PB) 상품인 '더진한초코우유'(스누피우유)에서 기준치를 초과한 세균과 대장균이 검출됐다고 식품의약품안전처가 14일 밝혔다.",
+      "timex3": [
+        {
+          "id": "TIME_S2_0",
+          "type": "DATE",
+          "extent": [
+            77,
+            80
+          ],
+          "text": "14일",
+          "value": "2022-07-22",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S3_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            21,
+            22
+          ],
+          "text": "됐",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            35,
+            36
+          ],
+          "text": "됨",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            118,
+            119
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 3,
+      "text": "식약처는 GS25 PB상품 우유가 변질됐다는 소비자 불만이 제기됨에 따라 제조공장 소재지인 전라북도와 함께 판매업자인 GS25의 운영사 GS리테일, 제조업자인 동원F&B를 대상으로 현장 조사와 제품 수거 검사를 했다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S4_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            69,
+            70
+          ],
+          "text": "이",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S4_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            140,
+            141
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 4,
+      "text": "소비자 불만이 제기된 제품은 더진한바나나우유(바나나우유), 더진한초코우유(초코우유), 더진한딸기우유(딸기우유) 등 3개 제품이었는데, 식약처는 이들 3개 제품과 유사한 공정으로 생산된 9개 제품을 더해 모두 12개 제품에 대한 미생물 기준·규격을 검사했다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S5_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            58,
+            59
+          ],
+          "text": "한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            65,
+            66
+          ],
+          "text": "하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            83,
+            84
+          ],
+          "text": "했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S5_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            138,
+            139
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 5,
+      "text": "검사 결과 12개 제품 중 초코우유(유통기한 2022년 7월13일)에서 세균수와 대장균군이 기준치를 초과한 것을 확인하고 이 제품을 모두 압류, 폐기했으며 제조업자와 판매업자에 대해 '품목제조 정지 15일'과 '해당제품폐기'의 행정처분을 내리기로 했다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S6_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            11,
+            12
+          ],
+          "text": "되",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S6_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            20,
+            21
+          ],
+          "text": "않",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S6_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            30,
+            31
+          ],
+          "text": "없",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S6_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            78,
+            79
+          ],
+          "text": "된",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S6_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            17,
+            18
+          ],
+          "text": "되",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 6,
+      "text": "다만 이 제품은 유통되거나 판매되지 않아 회수 대상은 없었다. 품목제조 정지 처분에 따라 검사 대상 제품 중 초코우유에 대해서만 제조가 정지된다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S7_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            28,
+            29
+          ],
+          "text": "하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S7_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            46,
+            47
+          ],
+          "text": "했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S7_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            79,
+            80
+          ],
+          "text": "하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S7_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            94,
+            95
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 7,
+      "text": "GS리테일은 앞서 지난 1일 바나나우유의 맛이 이상하다는 신고가 들어와 판매를 중지했고, 4일에는 딸기우유, 커피우유, 초코우유의 판매를 중지하고 재고 2만5천개를 폐기했다.",
+      "timex3": [
+        {
+          "id": "TIME_S7_0",
+          "type": "DATE",
+          "extent": [
+            50,
+            52
+          ],
+          "text": "4일",
+          "value": "p4d",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        },
+        {
+          "id": "TIME_S7_1",
+          "type": "DATE",
+          "extent": [
+            10,
+            15
+          ],
+          "text": "지난 1일",
+          "value": "2022-7-21",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [],
+      "sentence_id": 8,
+      "text": "GS리테일은 5일 홈페이지에 안내문을 올려 \"품질에 대한 고객 클레임이 발생해 즉시 판매 금지 및 발주 중단 조치를 했고, 자발적으로 회수하기로 했다\"고 밝혔었다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 9,
+      "text": "식약처는 이번 조사에서 GS리테일과 동원F&B가 제품에 문제가 있음을 알고도 관할 지자체에 회수 계획을 보고하지 않은 채 제품을 자체 회수한 사실을 적발해 판매업자와 제조업자 각각에 경고와 과태료 500만원씩의 행정처분을 내렸다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 10,
+      "text": "판매업자와 제조업자는 식품이 부패·변질됐을 우려가 있을 경우에는 관할 지자체에 회수계획을 보고할 의무가 있다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 11,
+      "text": "식약처 관계자는 \"판매·제조업자가 이미 제품을 폐기했고, 유통기한이 지난 제품의 경우 검사 대상에서 빠졌다\"며 \"수거 검사는 폐기되지 않고 남은 제품 중 유통기한을 넘기지 않은 제품을 대상으로 실시했다\"고 설명했다.",
+      "timex3": []
+    }
+  ],
+  "tlink": [
+    {
+      "id": "TLINK_0",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S2_0",
+      "arg2": "EVENT_S2_0",
+      "comment": ""
+    },
+    {
+      "id": "TLINK_1",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S2_0",
+      "arg2": "EVENT_S2_1",
+      "comment": ""
+    },
+    {
+      "id": "TLINK_2"
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "news_category",
+    "Dataset.identifier": "News",
+    "Dataset.label_path": "/news/label",
+    "Dataset.name": "매일경제 뉴스 데이터",
+    "Dataset.src_path": "/news",
+    "Dataset.type": "text/json",
+    "info.category": "뉴스",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "매일경제020.txt",
+    "info.medianame": "매일경제 뉴스",
+    "info.mediatype": "document",
+    "info.title": "뉴스 제목"
+  },
+  "lastModified": {
+    "$date": "2022-07-22T03:07:38.466Z"
+  }
+}

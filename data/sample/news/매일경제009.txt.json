@@ -1,0 +1,500 @@
+{
+  "_id": {
+    "$oid": "62d64b2e9bb823b3c8b53e0a"
+  },
+  "sentences": [
+    {
+      "event": [
+        {
+          "id": "EVENT_S0_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            42,
+            45
+          ],
+          "text": "위탁받",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            65,
+            69
+          ],
+          "text": "재활용해",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            81,
+            83
+          ],
+          "text": "거뒀",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            139,
+            140
+          ],
+          "text": "해",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            148,
+            151
+          ],
+          "text": "판매했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            166,
+            167
+          ],
+          "text": "한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_6",
+          "class": "OCCURRENCE",
+          "extent": [
+            172,
+            173
+          ],
+          "text": "하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_7",
+          "class": "OCCURRENCE",
+          "extent": [
+            185,
+            188
+          ],
+          "text": "활용했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 0,
+      "text": "# 수도권매립지관리공사는 서울, 인천, 경기 51개 시·군·구로부터 처리를 위탁받은 하수슬러지(찌꺼기) 677만t을 재활용해 173억원의 수익을 거뒀다. 공사는 2012년부터 지난해까지 하수슬러지 52만7000t을 건조한 후 발전용 고형 연료로 생산해 화력발전소에 판매했다. 372만t은 고화 처리한 뒤 매립하거나 매립장 복토재로 활용했다.",
+      "timex3": [
+        {
+          "id": "TIME_S0_0",
+          "type": "DATE",
+          "extent": [
+            90,
+            95
+          ],
+          "text": "2012년",
+          "value": "2012",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S1_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            28,
+            29
+          ],
+          "text": "열",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            37,
+            39
+          ],
+          "text": "가능",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            66,
+            69
+          ],
+          "text": "참석한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            91,
+            94
+          ],
+          "text": "대응하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            122,
+            123
+          ],
+          "text": "내",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            125,
+            127
+          ],
+          "text": "한다",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_6",
+          "class": "OCCURRENCE",
+          "extent": [
+            132,
+            134
+          ],
+          "text": "모았",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_7",
+          "class": "OCCURRENCE",
+          "extent": [
+            149,
+            151
+          ],
+          "text": "낮추",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_8",
+          "class": "OCCURRENCE",
+          "extent": [
+            157,
+            158
+          ],
+          "text": "한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_9",
+          "class": "OCCURRENCE",
+          "extent": [
+            169,
+            172
+          ],
+          "text": "구축해",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_10",
+          "class": "OCCURRENCE",
+          "extent": [
+            174,
+            175
+          ],
+          "text": "한",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 1,
+      "text": "13일 서울 중구 매경미디어그룹 12층 대강당에서 열린 '지속발전 가능한 폐기물 매립 및 친환경적 활용방안' 세미나에 참석한 전문가들은 눈앞에 닥친 폐기물 대란에 대응하기 위해 이 같은 폐기물 자원화시설 조성에 속도를 내야 한다고 입을 모았다. 폐기물 매립 의존도를 낮추고 지속가능한 자원순환 시스템을 구축해야 한다는 것이다.",
+      "timex3": [
+        {
+          "id": "TIME_S1_0",
+          "type": "DATE",
+          "extent": [
+            0,
+            3
+          ],
+          "text": "13일",
+          "value": "2022-07-22",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S2_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            45,
+            48
+          ],
+          "text": "마련해",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            77,
+            78
+          ],
+          "text": "해",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            131,
+            134
+          ],
+          "text": "맞물려",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            167,
+            170
+          ],
+          "text": "발생하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            172,
+            173
+          ],
+          "text": "있",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            177,
+            180
+          ],
+          "text": "진단했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 2,
+      "text": "이재영 서울시립대 환경공학과 교수는 \"우리나라는 1980년대 중반 폐기물관리법을 마련해 매립, 소각, 재활용 등의 방식으로 폐기물 관리를 해왔다\"며 \"그러나 최근 정부 정책과 방치 폐기물 및 폐기물 수출 문제, 주민 불만과 반대 등에 맞물려 폐기물 매립을 비롯한 폐기물의 최종처분법 활용에 어려움이 발생하고 있다\"고 진단했다.",
+      "timex3": [
+        {
+          "id": "TIME_S2_0",
+          "type": "DATE",
+          "extent": [
+            27,
+            33
+          ],
+          "text": "1980년대",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S3_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            21,
+            24
+          ],
+          "text": "금지되",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            43,
+            46
+          ],
+          "text": "감소할",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            51,
+            54
+          ],
+          "text": "예상된",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            81,
+            83
+          ],
+          "text": "따르",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 3,
+      "text": "실제 생활폐기물과 건설폐기물류 반입이 금지되면서 향후 폐기물 매립량은 급격히 감소할 것으로 예상된다. 지난해 1월 개정된 폐기물관리법 시행규칙에 따르면 종량제봉투에 담긴 생활폐기물을 재활용하기 위해 선별하거나 소각하지 않고 매립(직매립)하는 행위가 수도권에서는 2026년부터, 수도권 외 지역에선 2030년부터 금지된다. 이 법은 올해부터 매립 금지 항목에 대형 건설폐기물을 포함시키고, 2025년에는 중간 처리 잔재물로까지 범위를 더욱 넓힌다. 지자체별로 폐기물을 소각하거나 재활용하기 위한 처리시설을 확대하지 않고서는 폐기물 대란 발생이 불가피하다는 얘기다.",
+      "timex3": [
+        {
+          "id": "TIME_S3_0",
+          "type": "DATE",
+          "extent": [
+            146,
+            151
+          ],
+          "text": "2026년",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        },
+        {
+          "id": "TIME_S3_1",
+          "type": "DATE",
+          "extent": [
+            166,
+            171
+          ],
+          "text": "2030년",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        },
+        {
+          "id": "TIME_S3_2",
+          "type": "DATE",
+          "extent": [
+            217,
+            222
+          ],
+          "text": "2025년",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [],
+      "sentence_id": 4,
+      "text": "수도권매립지관리공사에 따르면 지난해 242만t이었던 폐기물 매립 규모는 2026년에 10분의 1 수준인 24만t으로 줄어든다. 박정현 수도권매립지관리공사 자원순환기술처장은 \"생활쓰레기 매립이 금지되는 2026년부터 24만t으로, 2021년 대비 9.9% 수준으로 줄어 재활용이 불가능한 소각재와 불연물만 매립하게 된다\"고 설명했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 5,
+      "text": "이처럼 폐기물 매립 수용량은 갈수록 줄어들고 있는 반면 폐기물 배출량은 가파르게 늘고 있다. 한국환경공단이 발표한 자료에 따르면 2014년 전국에서 하루에 발생한 폐기물량은 40만1658t이었으나 2019년에는 49만7238t으로 급증했다. 불과 5년 만에 20% 이상 늘어난 것으로, 환경부에 따르면 2031년 우리나라 공공매립시설 215곳 중 102곳이 포화 상태에 이를 것으로 전망된다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 6,
+      "text": "이날 세미나에선 직매립 방식을 탈피한 폐기물 처리 발전 방안으로 다양한 의견이 제시됐다. 우선 주로 생활계 폐기물로 구성되는 가연성 폐기물을 자원화하는 방안이 거론된다. 박 처장은 \"서울시 강남 및 마포 소각장에 폐플라스틱 선별 전처리시설을 설치해 폐플라스틱 열분해 가스를 발전시설의 보조 연료로 활용할 수 있다\"고 제안했다. 하수슬러지나 음식물폐수 등 유기성 폐기물을 처리하는 과정에서 바이오가스 생산을 확대하기 위해 통합 바이오시설을 설치하는 방안도 논의됐다.",
+      "timex3": []
+    }
+  ],
+  "tlink": [
+    {
+      "id": "TLINK_1",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S0_0",
+      "arg2": "EVENT_S0_4",
+      "comment": ""
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "news_category",
+    "Dataset.identifier": "News",
+    "Dataset.label_path": "/news/label",
+    "Dataset.name": "매일경제 뉴스 데이터",
+    "Dataset.src_path": "/news",
+    "Dataset.type": "text/json",
+    "info.category": "뉴스",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "매일경제009.txt",
+    "info.medianame": "매일경제 뉴스",
+    "info.mediatype": "document",
+    "info.title": "뉴스 제목"
+  },
+  "lastModified": {
+    "$date": "2022-07-22T03:01:09.231Z"
+  }
+}

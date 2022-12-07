@@ -1,0 +1,6 @@
+제가 5년 전 약속이 있어서 서울을 갔다가 그냥 내려오기 아쉬워서 다음날 롯데월드를 가서 폐장시간까지 있었는데 진짜 재밌었어요 .	O DATE-B DATE-I O EVENT-B O EVENT-B O EVENT-B EVENT-B DATE-B O EVENT-B DATE-B EVENT-B O EVENT-B O
+저도 조카랑 롯데월드를 3년 전쯤 다녀왔는데 실내가 있어서 날씨 영향을 안 받는 게 좋더라고요	O O O DATE-B DATE-I EVENT-B O EVENT-B O O O EVENT-B O EVENT-B
+한동안 코로나 때문에 놀러를 못 가서 이번 휴가 때 한번 갈까 하는데 추천해 주실만한 놀이 기구가 있을까요 ?	O O O EVENT-B O EVENT-B O O O O EVENT-B O EVENT-B EVENT-B O O EVENT-B O
+롯데월드 하면 역시 아트란티스죠 어제 꿈에 놀이 기구를 타는 꿈을 꿨는데 아트란티스가 안 나와서 아쉽네요 .	O EVENT-B O O DATE-B O O O EVENT-B O EVENT-B O O EVENT-B EVENT-B O
+그리고 놀이 기구마다 운행을 쉬는 날이 있으니까 꼭 확인해 보세요 .	O O O O DATE-B DATE-I EVENT-B O EVENT-B EVENT-B O
+내일 바로 확인해보겠습니다 .	DATE-B O EVENT-B O

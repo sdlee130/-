@@ -1,0 +1,374 @@
+{
+  "_id": {
+    "$oid": "62d62e579bb823b3c8b53dfb"
+  },
+  "utterances": [
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            4,
+            6
+          ],
+          "id": "EVENT_S0_0",
+          "text": "지나"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            22,
+            23
+          ],
+          "id": "EVENT_S0_1",
+          "text": "해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            28,
+            30
+          ],
+          "id": "EVENT_S0_2",
+          "text": "모르"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            39,
+            40
+          ],
+          "id": "EVENT_S0_3",
+          "text": "해"
+        }
+      ],
+      "text": "올해가 지나면 30살인데 취업을 어떻게 해야 할지 모르겠어요 조언 좀 해주시겠어요?",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            0,
+            2
+          ],
+          "hour": "",
+          "id": "TIME_S0_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "올해",
+          "type": "DURATION",
+          "value": "XXXX-XX-XX",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ],
+      "utterance_id": 0,
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            11,
+            13
+          ],
+          "id": "EVENT_S1_0",
+          "text": "가지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            15,
+            18
+          ],
+          "id": "EVENT_S1_1",
+          "text": "도전해"
+        }
+      ],
+      "text": "제 생각에는 용기를 가지고 도전해보시면 어떨까요?",
+      "timex3": [],
+      "utterance_id": 1,
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            16,
+            17
+          ],
+          "id": "EVENT_S2_0",
+          "text": "됐"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            30,
+            31
+          ],
+          "id": "EVENT_S2_1",
+          "text": "했"
+        }
+      ],
+      "sentence_id": 2,
+      "text": "저도 취업한지 6개월 밖에 안됐는데 정말 도전을 많이 했어요.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            8,
+            11
+          ],
+          "hour": "",
+          "id": "TIME_S2_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "6개월",
+          "type": "DURATION",
+          "value": "P6M",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            13,
+            14
+          ],
+          "id": "EVENT_S3_0",
+          "text": "해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            25,
+            26
+          ],
+          "id": "EVENT_S3_1",
+          "text": "하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            36,
+            39
+          ],
+          "id": "EVENT_S3_2",
+          "text": "떨어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            43,
+            44
+          ],
+          "id": "EVENT_S3_3",
+          "text": "같"
+        }
+      ],
+      "sentence_id": 3,
+      "text": "지난 3개월동안 도전을 해봤지만 계속 낙방을 하니 점점 자신감이 떨어지는 것 같아요.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            3,
+            8
+          ],
+          "hour": "",
+          "id": "TIME_S3_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "3개월동안",
+          "type": "DURATION",
+          "value": "P3M",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ],
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S4_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            21,
+            24
+          ],
+          "text": "방문해",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 4,
+      "text": "그렇다면 취업을 도와주는 기관을 한번 방문해 보시는 게 어떨까요?",
+      "timex3": [],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S5_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            32,
+            33
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 5,
+      "text": "제 친구도 취업을 도와주는 기관을 통해서 지난달에 취업을 했거든요.",
+      "timex3": [
+        {
+          "id": "TIME_S5_0",
+          "type": "DATE",
+          "extent": [
+            23,
+            26
+          ],
+          "text": "지난달",
+          "value": "XXXX-XX-XX",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "-1",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S6_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            10,
+            11
+          ],
+          "text": "있",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S6_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            20,
+            23
+          ],
+          "text": "연락해",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 6,
+      "text": "아하 그런 방법이 있군요 오늘 당장 연락해보겠습니다.",
+      "timex3": [
+        {
+          "id": "TIME_S6_0",
+          "type": "DATE",
+          "extent": [
+            14,
+            16
+          ],
+          "text": "오늘",
+          "value": "XXXX-XX-XX",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "0",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ],
+      "who": "User A"
+    }
+  ],
+  "tlink": [
+    {
+      "arg1": "TIME_S6_0",
+      "arg2": "EVENT_S6_1",
+      "comment": "",
+      "id": "TLINK_1",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S3_0",
+      "arg2": "EVENT_S3_2",
+      "comment": "",
+      "id": "TLINK_2",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S3_0",
+      "arg2": "EVENT_S3_3",
+      "comment": "",
+      "id": "TLINK_3",
+      "relType": "INCLUDES"
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "chat_category",
+    "Dataset.identifier": "Chat",
+    "Dataset.label_path": "/chat/label",
+    "Dataset.name": "대화 데이터",
+    "Dataset.src_path": "/chat",
+    "Dataset.type": "text/json",
+    "info.category": "대화",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "대화09-7dab8db4.txt",
+    "info.medianame": "자유 대화",
+    "info.mediatype": "document",
+    "info.title": "대화09-7dab8db4"
+  },
+  "lastModified": {
+    "$date": "2022-07-26T08:45:25.286Z"
+  }
+}

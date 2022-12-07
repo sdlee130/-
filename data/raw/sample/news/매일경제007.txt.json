@@ -1,0 +1,351 @@
+{
+  "_id": {
+    "$oid": "62d64af59bb823b3c8b53e08"
+  },
+  "sentences": [
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            25,
+            28
+          ],
+          "id": "EVENT_S0_0",
+          "text": "운영하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            74,
+            75
+          ],
+          "id": "EVENT_S0_1",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            78,
+            80
+          ],
+          "id": "EVENT_S0_2",
+          "text": "하는"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            108,
+            111
+          ],
+          "id": "EVENT_S0_3",
+          "text": "가능한"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            117,
+            118
+          ],
+          "id": "EVENT_S0_4",
+          "text": "이"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            130,
+            131
+          ],
+          "id": "EVENT_S0_5",
+          "text": "이"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            139,
+            142
+          ],
+          "id": "EVENT_S0_6",
+          "text": "허용하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            151,
+            152
+          ],
+          "id": "EVENT_S0_7",
+          "text": "이"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            164,
+            167
+          ],
+          "id": "EVENT_S0_8",
+          "text": "확대하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            189,
+            190
+          ],
+          "id": "EVENT_S0_9",
+          "text": "싣"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            191,
+            193
+          ],
+          "id": "EVENT_S0_10",
+          "text": " 될"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            65,
+            68
+          ],
+          "id": "EVENT_S0_11",
+          "text": "선택해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            69,
+            71
+          ],
+          "id": "EVENT_S0_12",
+          "text": "일할"
+        }
+      ],
+      "sentence_id": 0,
+      "text": "이커머스(전자상거래) 플랫폼 '배달의민족'을 운영하는 우아한형제들이 내년부터 근무 장소와 시간을 모두 임직원이 각자 선택해 일할 수 있도록 하는 새로운 실험에 나선다. 원하는 시간에 재택근무가 가능한 것은 물론이고 근무가 가능한 환경이라면 해외까지 허용하는 파격적인 조건이어서 최근 유연근무를 확대하는 업계의 '오피스 프리' 흐름에 힘을 싣게 될지 주목된다.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            38,
+            42
+          ],
+          "hour": "",
+          "id": "TIME_S0_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "내년부터",
+          "type": "DATE",
+          "value": "2023",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            48,
+            51
+          ],
+          "id": "EVENT_S1_0",
+          "text": "도입할"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            122,
+            125
+          ],
+          "id": "EVENT_S1_5",
+          "text": "공개하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            172,
+            173
+          ],
+          "id": "EVENT_S1_9",
+          "text": "했"
+        }
+      ],
+      "sentence_id": 1,
+      "text": "14일 우아한형제들은 내년 1월 1일부로 '근무지 자율선택제' '선택적 근로시간제'를 도입할 예정이라고 밝혔다. 김범준 우아한형제들 대표는 지난 13일 전체 임직원을 대상으로 진행한 온라인 발표를 통해 이 같은 계획을 공개하면서 \"우리가 일을 더 잘하기 위해 자율을 기반으로 한 선택적 근무제도를 확대하기로 했다\"고 전했다. 우아한형제들은 올 하반기에 임직원 의견 수렴 과정을 거쳐 구체적인 시행 방안을 확정할 계획이다.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            0,
+            3
+          ],
+          "hour": "",
+          "id": "TIME_S1_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "14일",
+          "type": "DATE",
+          "value": "14일",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            12,
+            20
+          ],
+          "hour": "",
+          "id": "TIME_S1_1",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "내년 1월 1일",
+          "type": "DATE",
+          "value": "2023-01-01",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            78,
+            85
+          ],
+          "hour": "",
+          "id": "TIME_S1_2",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "지난 13일 ",
+          "type": "DATE",
+          "value": "2022-07-13",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            190,
+            195
+          ],
+          "hour": "",
+          "id": "TIME_S1_3",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "올 하반기",
+          "type": "DURATION",
+          "value": "P6M",
+          "week": "",
+          "weekday": "",
+          "year": "-3"
+        }
+      ]
+    },
+    {
+      "event": [],
+      "sentence_id": 2,
+      "text": "근무지 자율선택제는 임직원 모두가 업무에 몰입할 수 있는 근무 장소를 스스로 선택할 수 있다는 게 핵심이다. 사무실 출근, 재택근무 외에 일할 수 있는 여건이 되는 곳이면 해외까지 무관하다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 3,
+      "text": "시차가 있는 지역도 한국시간을 기준으로 '코워크(co-work) 타임'을 포함한 본인 근로시간만 준수하면 된다. 코워크 타임은 구성원 간 원활한 업무 커뮤니케이션을 위해 필수로 근무해야 하는 시간을 말한다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 4,
+      "text": "이에 따라 내년부터 우아한형제들 임직원이라면 누구나 미국 뉴욕, 영국 런던, 프랑스 파리 등 세계 각지에서 일하는 것이 가능해진다. 특히 근무지 자율선택제는 해외에 거주하거나 해외에 거주하기를 희망하는 우수 인력을 유치하는 데도 긍정적인 요인이 될 것으로 보인다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 5,
+      "text": "다만 해외 거점 사무소 설치나 해외 체류비 지원 등 세부 사항은 아직 정해진 바가 없다. 일각에서는 우아한형제들 모기업인 독일 딜리버리히어로가 아시아, 유럽, 라틴아메리카, 중동 등 세계 50개국에 진출해 있는 만큼 모기업 사무실을 공유해 사용하는 등 방식으로 임직원 해외 근무를 지원하는 일이 가능할 것이라는 관측도 나온다. 우아한형제들 관계자는 \"물리적으로는 충분히 가능한 일\"이라면서도 \"세부적인 운영 방안은 올 하반기에 임직원 협의를 거쳐 정해나갈 부분\"이라고 설명했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 6,
+      "text": "근무지 자율선택제가 정착되면 근무지 제약이 완전히 사라지는 만큼 서울에 직장이 있지만 높은 집값 때문에 회사 인근에서 집을 구하는 게 부담이 됐던 젊은 부부에게도 도움이 될 것으로 전망된다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 7,
+      "text": "내년부터는 임직원 근무 시간도 한 달 단위만 정하고 요일, 시간대 등은 자율적인 선택에 맡긴다. 급여는 그대로 유지하면서 의무 근로 시간을 대폭 줄인 기존 '주 32시간제'(올해 1월 도입)에서 월 단위 선택적 근로시간제로 전환해 한층 더 유연성을 높인 것이다. 예를 들어 어떤 주에는 20시간만 근무하고 좀 더 업무에 몰두가 필요한 주에는 50시간을 근무하는 것이 가능해진다.",
+      "timex3": []
+    }
+  ],
+  "tlink": [
+    {
+      "arg1": "TIME_S0_0",
+      "arg2": "EVENT_S0_12",
+      "comment": "",
+      "id": "TLINK_0",
+      "relType": "INCLUDES"
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "news_category",
+    "Dataset.identifier": "News",
+    "Dataset.label_path": "/news/label",
+    "Dataset.name": "매일경제 뉴스 데이터",
+    "Dataset.src_path": "/news",
+    "Dataset.type": "text/json",
+    "info.category": "뉴스",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "매일경제007.txt",
+    "info.medianame": "매일경제 뉴스",
+    "info.mediatype": "document",
+    "info.title": "뉴스 제목"
+  },
+  "lastModified": {
+    "$date": "2022-07-24T04:27:12.203Z"
+  }
+}

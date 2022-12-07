@@ -1,0 +1,598 @@
+{
+  "_id": {
+    "$oid": "62d64b169bb823b3c8b53e09"
+  },
+  "sentences": [
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            36,
+            38
+          ],
+          "id": "EVENT_S0_0",
+          "text": "이르"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            47,
+            50
+          ],
+          "id": "EVENT_S0_1",
+          "text": "출고해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            62,
+            65
+          ],
+          "id": "EVENT_S0_2",
+          "text": "늦어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            76,
+            79
+          ],
+          "id": "EVENT_S0_3",
+          "text": "잇따르"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            81,
+            82
+          ],
+          "id": "EVENT_S0_4",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            89,
+            92
+          ],
+          "id": "EVENT_S0_5",
+          "text": "예약했"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            106,
+            108
+          ],
+          "id": "EVENT_S0_6",
+          "text": "빠르"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            119,
+            122
+          ],
+          "id": "EVENT_S0_7",
+          "text": "취소하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            132,
+            133
+          ],
+          "id": "EVENT_S0_8",
+          "text": "많"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            140,
+            142
+          ],
+          "id": "EVENT_S0_9",
+          "text": "나왔"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            182,
+            185
+          ],
+          "id": "EVENT_S0_10",
+          "text": "받아뒀"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            188,
+            189
+          ],
+          "id": "EVENT_S0_11",
+          "text": "풀"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            196,
+            198
+          ],
+          "id": "EVENT_S0_12",
+          "text": "뺏기"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            200,
+            201
+          ],
+          "id": "EVENT_S0_13",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            235,
+            238
+          ],
+          "id": "EVENT_S0_14",
+          "text": "늦어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            249,
+            250
+          ],
+          "id": "EVENT_S0_15",
+          "text": "했"
+        }
+      ],
+      "sentence_id": 0,
+      "text": "최근 서울 강북지역의 완성차 영업지점들에 \"렌터카 업체는 신차도 이르면 일주일 만에 출고해준다는데 왜 내 차는 늦어지냐\"는 고객 불만이 잇따르고 있다. 신차를 예약했다가 렌터카가 출고가 더 빠르다는 소식에 예약을 취소하는 사례가 상당히 많다는 제보도 나왔다. 완성차 업체 한 영업사원은 \"렌터카 업체들이 미리 물량을 대규모로 받아뒀다가 풀면서 손님을 뺏기고 있다\"며 \"대규모 물량 선점으로 개인 손님들의 신차 출고가 더 늦어지는 것\"이라고 하소연했다.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            40,
+            43
+          ],
+          "hour": "",
+          "id": "TIME_S0_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "일주일",
+          "type": "DATE",
+          "value": "P1W",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            20,
+            23
+          ],
+          "id": "EVENT_S1_0",
+          "text": "늦어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            51,
+            54
+          ],
+          "id": "EVENT_S1_1",
+          "text": "이어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            56,
+            57
+          ],
+          "id": "EVENT_S1_2",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            79,
+            82
+          ],
+          "id": "EVENT_S1_3",
+          "text": "구매해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            88,
+            91
+          ],
+          "id": "EVENT_S1_4",
+          "text": "구매하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            112,
+            114
+          ],
+          "id": "EVENT_S1_5",
+          "text": "밀리"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            120,
+            123
+          ],
+          "id": "EVENT_S1_6",
+          "text": "발생하"
+        }
+      ],
+      "sentence_id": 1,
+      "text": "최근 반도체 수급난으로 신차 출고가 늦어지면서 렌터카 업체들과 완성차 영업사원 간 신경전이 이어지고 있다. 렌터카 업체가 차를 한 번에 대량 구매해 한 대씩 구매하는 개인 소비자들의 신차 출고가 뒤로 밀리는 현상이 발생하면서다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            27,
+            29
+          ],
+          "id": "EVENT_S2_0",
+          "text": "걸리"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            54,
+            57
+          ],
+          "id": "EVENT_S2_1",
+          "text": "이용하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            59,
+            61
+          ],
+          "id": "EVENT_S2_2",
+          "text": "이르"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            73,
+            74
+          ],
+          "id": "EVENT_S2_3",
+          "text": "받"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            78,
+            79
+          ],
+          "id": "EVENT_S2_4",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            106,
+            108
+          ],
+          "id": "EVENT_S2_5",
+          "text": "원하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            120,
+            122
+          ],
+          "id": "EVENT_S2_6",
+          "text": "정하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            131,
+            132
+          ],
+          "id": "EVENT_S2_7",
+          "text": "맞"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            138,
+            141
+          ],
+          "id": "EVENT_S2_8",
+          "text": "구매해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            142,
+            144
+          ],
+          "id": "EVENT_S2_9",
+          "text": "빌려"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            175,
+            176
+          ],
+          "id": "EVENT_S2_10",
+          "text": "넘"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            202,
+            205
+          ],
+          "id": "EVENT_S2_11",
+          "text": "구매한"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            220,
+            222
+          ],
+          "id": "EVENT_S2_12",
+          "text": "전해"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            272,
+            275
+          ],
+          "id": "EVENT_S2_13",
+          "text": "홍보하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            280,
+            283
+          ],
+          "id": "EVENT_S2_14",
+          "text": "올라오"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            285,
+            286
+          ],
+          "id": "EVENT_S2_15",
+          "text": "있"
+        }
+      ],
+      "sentence_id": 2,
+      "text": "13일 자동차 업계에 따르면 출고까지 1년 정도 걸리는 현대차·기아 인기 차종들도 렌터카 업체를 이용하면 이르면 일주일 만에 차를 받을 수 있다. 기본적으로 장기 렌터카 상품의 경우 고객이 원하는 차량과 옵션 등을 정하면 업체가 그에 맞는 상품을 구매해 빌려준다. 하지만 최근 인기 차종은 대기기간이 1년을 훌쩍 넘어 렌터카 업체들이 인기옵션 차량을 미리 대량 구매한 뒤에 물량을 푸는 것으로 전해졌다. 자동차 커뮤니티 등에는 \"선착순 10명, 아이오닉5 일주일 만에 출고 가능\"이라며 홍보하는 글이 올라오고 있다.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            0,
+            3
+          ],
+          "hour": "",
+          "id": "TIME_S2_0",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "13일",
+          "type": "DATE",
+          "value": "P13D",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            21,
+            23
+          ],
+          "hour": "",
+          "id": "TIME_S2_1",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "1년",
+          "type": "DURATION",
+          "value": "P1Y",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            63,
+            66
+          ],
+          "hour": "",
+          "id": "TIME_S2_2",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "일주일",
+          "type": "DATE",
+          "value": "P1W",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            168,
+            170
+          ],
+          "hour": "",
+          "id": "TIME_S2_3",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "1년",
+          "type": "DATE",
+          "value": "P1Y",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        },
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            255,
+            258
+          ],
+          "hour": "",
+          "id": "TIME_S2_4",
+          "minute": "",
+          "mod": "",
+          "month": "",
+          "second": "",
+          "text": "일주일",
+          "type": "DATE",
+          "value": "P1W",
+          "week": "",
+          "weekday": "",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "event": [],
+      "sentence_id": 3,
+      "text": "특히 전기차의 경우 렌터카 업체를 이용하는 소비자와 일반 소비자들 간 '차별'도 문제점으로 제기된다. 일반 소비자들은 지방자치단체의 일정 거주 요건(최대 3개월)을 충족해야 전기차 보조금을 받을 수 있다. 서울에 거주하는 소비자가 보조금을 많이 주는 지자체를 찾아 '보조금 쇼핑'을 하는 것을 막기 위한 조치다. 하지만 렌터카 업체들은 지역을 따지지 않고 지점만 있으면 지자체 보조금을 받아 전국 소비자에게 차량을 빌려준다. 예를 들어 대전지점에서 보조금을 받아 구매한 차를 서울에 사는 고객에게 빌려주는 식이다. 보조금이 다 떨어진 지역에 거주하는 소비자라도 렌터카 업체를 이용하면 보조금을 우회적으로 받을 수 있다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 4,
+      "text": "실제로 지난해에는 보조금이 많이 나오는 지자체 소재 지점에서 한꺼번에 차를 구매한 사례도 있었던 것으로 알려졌다. 렌터카 업체 한 영업사원은 \"작년에는 보조금을 가장 많이 받는 지역에서 차를 출고했다\"면서도 \"최근 보조금 경쟁이 치열해지면서 지자체도 일정 부분 물량을 제한하기 시작했다\"고 말했다. 환경부 관계자는 이에 대해 \"사업장이 지방세만 납부하면 보조금을 받을 수 있도록 해 가능한 한 많은 소비자가 전기차를 이용하게 하기 위한 차원\"이라고 설명했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 5,
+      "text": "렌터카 업계는 사업계획상 차량 확보는 불가피한 일이라는 입장이다. 렌터카 업체 관계자는 \"전년과 비슷하게 물량을 확보하고 있다\"며 \"출고가 오래 걸리는 것은 법인이든 개인 소비자든 마찬가지\"라고 전했다. 현대차·기아 관계자는 \"렌터카 업체 등 법인 고객도 주문 순서에 따라 차를 받는 것\"이라며 \"법인이라고 먼저 차를 출고해주진 않는다\"고 설명했다.",
+      "timex3": []
+    }
+  ],
+  "tlink": [
+    {
+      "arg1": "TIME_S0_0",
+      "arg2": "EVENT_S0_2",
+      "comment": "",
+      "id": "TLINK_0",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S0_0",
+      "arg2": "EVENT_S0_3",
+      "comment": "",
+      "id": "TLINK_1",
+      "relType": "INCLUDES"
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "news_category",
+    "Dataset.identifier": "News",
+    "Dataset.label_path": "/news/label",
+    "Dataset.name": "매일경제 뉴스 데이터",
+    "Dataset.src_path": "/news",
+    "Dataset.type": "text/json",
+    "info.category": "뉴스",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "매일경제008.txt",
+    "info.medianame": "매일경제 뉴스",
+    "info.mediatype": "document",
+    "info.title": "뉴스 제목"
+  },
+  "lastModified": {
+    "$date": "2022-07-24T03:55:54.606Z"
+  }
+}

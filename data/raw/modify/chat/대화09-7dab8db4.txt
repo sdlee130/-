@@ -1,0 +1,7 @@
+올해가 지나면 30살인데 취업을 어떻게 해야 할지 모르겠어요 조언 좀 해주시겠어요 ?	DURATION-B EVENT-B O O O EVENT-B O EVENT-B O O EVENT-B O
+제 생각에는 용기를 가지고 도전해보시면 어떨까요 ?	O O O EVENT-B EVENT-B O O
+저도 취업한지 6개월 밖에 안됐는데 정말 도전을 많이 했어요 .	O O DURATION-B O EVENT-B O O O EVENT-B O
+지난 3개월동안 도전을 해봤지만 계속 낙방을 하니 점점 자신감이 떨어지는 것 같아요 .	O DURATION-B O EVENT-B O O EVENT-B O O EVENT-B O EVENT-B O
+그렇다면 취업을 도와주는 기관을 한번 방문해 보시는 게 어떨까요 ?	O O O O O EVENT-B O O O O
+제 친구도 취업을 도와주는 기관을 통해서 지난달에 취업을 했거든요 .	O O O O O O DATE-B O EVENT-B O
+아하 그런 방법이 있군요 오늘 당장 연락해보겠습니다 .	O O O EVENT-B DATE-B O EVENT-B O

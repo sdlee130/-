@@ -1,0 +1,360 @@
+{
+  "_id": {
+    "$oid": "62d62b4f9bb823b3c8b53df5"
+  },
+  "utterances": [
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            10,
+            13
+          ],
+          "id": "EVENT_S0_0",
+          "text": "추구하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            19,
+            20
+          ],
+          "id": "EVENT_S0_1",
+          "text": "있"
+        }
+      ],
+      "text": "자연스러운 만남을 추구하는 이유가 있을까요?",
+      "timex3": [],
+      "utterance_id": 0,
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            17,
+            19
+          ],
+          "id": "EVENT_S1_0",
+          "text": "사귀"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            33,
+            34
+          ],
+          "id": "EVENT_S1_1",
+          "text": "않"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            36,
+            39
+          ],
+          "id": "EVENT_S1_2",
+          "text": "헤어지"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            41,
+            42
+          ],
+          "id": "EVENT_S1_3",
+          "text": "되"
+        }
+      ],
+      "text": "작년에 지인 소개로 여자친구를 사귀었지만 이내 성격이 맞지 않아 헤어지게 되었습니다.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            0,
+            2
+          ],
+          "hour": "",
+          "id": "TIME_S1_0",
+          "minute": "",
+          "mod": "END",
+          "month": "",
+          "second": "",
+          "text": "작년",
+          "type": "DATE",
+          "value": "XXXX-XX-XX",
+          "week": "",
+          "weekday": "",
+          "year": "-1"
+        }
+      ],
+      "utterance_id": 1,
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            20,
+            21
+          ],
+          "id": "EVENT_S2_0",
+          "text": "한"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            35,
+            36
+          ],
+          "id": "EVENT_S2_1",
+          "text": "없"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            40,
+            41
+          ],
+          "id": "EVENT_S2_2",
+          "text": "없"
+        }
+      ],
+      "sentence_id": 2,
+      "text": "그렇지만 자연스러운 만남으로 연애를 한다고 하더라도 성격차이가 없을 순 없잖아요.",
+      "timex3": [],
+      "who": "User A"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            10,
+            12
+          ],
+          "id": "EVENT_S3_0",
+          "text": "만나"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            14,
+            15
+          ],
+          "id": "EVENT_S3_1",
+          "text": "보"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            36,
+            37
+          ],
+          "id": "EVENT_S3_2",
+          "text": "알"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            40,
+            41
+          ],
+          "id": "EVENT_S3_3",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            57,
+            60
+          ],
+          "id": "EVENT_S3_4",
+          "text": "추구하"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            64,
+            65
+          ],
+          "id": "EVENT_S3_5",
+          "text": "같"
+        }
+      ],
+      "sentence_id": 3,
+      "text": "그래도 자연스럽게 만나다 보면 급하게 만나는 것 보다는 더 깊이 알 수 있기 때문에 자연스러운 만남을 추구하는 것 같네요.",
+      "timex3": [],
+      "who": "User B"
+    },
+    {
+      "event": [
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            23,
+            26
+          ],
+          "id": "EVENT_S4_0",
+          "text": "시작했"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            38,
+            41
+          ],
+          "id": "EVENT_S4_1",
+          "text": "헤어졌"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            55,
+            57
+          ],
+          "id": "EVENT_S4_2",
+          "text": "만나"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            59,
+            60
+          ],
+          "id": "EVENT_S4_3",
+          "text": "있"
+        },
+        {
+          "class": "OCCURRENCE",
+          "comment": "",
+          "extent": [
+            84,
+            87
+          ],
+          "id": "EVENT_S4_4",
+          "text": "모르겠"
+        }
+      ],
+      "sentence_id": 4,
+      "text": "저는 3년 전 친하게 지내던 분과 연애를 시작했지만 결국 성격차이로 헤어졌고 소개로 만난 분과 잘 만나고 있어서 꼭 자연스러운 만남이 좋은 건지는 잘 모르겠네요.",
+      "timex3": [
+        {
+          "calendar": "GREGORIAN",
+          "comment": "",
+          "day": "",
+          "extent": [
+            3,
+            7
+          ],
+          "hour": "",
+          "id": "TIME_S4_0",
+          "minute": "",
+          "mod": "END",
+          "month": "",
+          "second": "",
+          "text": "3년 전",
+          "type": "DATE",
+          "value": "XXXX-XX-XX",
+          "week": "",
+          "weekday": "",
+          "year": "-3"
+        }
+      ],
+      "who": "User A"
+    }
+  ],
+  "tlink": [
+    {
+      "arg1": "TIME_S1_0",
+      "arg2": "EVENT_S1_0",
+      "comment": "",
+      "id": "TLINK_0",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S1_0",
+      "arg2": "EVENT_S1_1",
+      "comment": "",
+      "id": "TLINK_1",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S1_0",
+      "arg2": "EVENT_S1_2",
+      "comment": "",
+      "id": "TLINK_2",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S1_0",
+      "arg2": "EVENT_S1_3",
+      "comment": "",
+      "id": "TLINK_3",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S4_0",
+      "arg2": "EVENT_S4_0",
+      "comment": "",
+      "id": "TLINK_4",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S4_0",
+      "arg2": "EVENT_S4_1",
+      "comment": "",
+      "id": "TLINK_5",
+      "relType": "INCLUDES"
+    },
+    {
+      "arg1": "TIME_S4_0",
+      "arg2": "EVENT_S4_2",
+      "comment": "",
+      "id": "TLINK_6",
+      "relType": "INCLUDES"
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "chat_category",
+    "Dataset.identifier": "Chat",
+    "Dataset.label_path": "/chat/label",
+    "Dataset.name": "대화 데이터",
+    "Dataset.src_path": "/chat",
+    "Dataset.type": "text/json",
+    "info.category": "대화",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "대화03-2ca063cb.txt",
+    "info.medianame": "자유 대화",
+    "info.mediatype": "document",
+    "info.title": "대화03-2ca063cb"
+  },
+  "lastModified": {
+    "$date": "2022-07-26T07:54:23.876Z"
+  }
+}

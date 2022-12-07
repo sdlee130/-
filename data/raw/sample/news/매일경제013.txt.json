@@ -1,0 +1,536 @@
+{
+  "_id": {
+    "$oid": "62d64b9e9bb823b3c8b53e0e"
+  },
+  "sentences": [
+    {
+      "event": [
+        {
+          "id": "EVENT_S0_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            13,
+            16
+          ],
+          "text": "사임한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            36,
+            38
+          ],
+          "text": "머물",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            40,
+            41
+          ],
+          "text": "않",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            52,
+            53
+          ],
+          "text": "살",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            56,
+            58
+          ],
+          "text": "섬기",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            63,
+            66
+          ],
+          "text": "이어가",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_6",
+          "class": "OCCURRENCE",
+          "extent": [
+            68,
+            69
+          ],
+          "text": "싶",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S0_7",
+          "class": "OCCURRENCE",
+          "extent": [
+            75,
+            77
+          ],
+          "text": "밝혔",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 0,
+      "text": "프란치스코 교황은 만약 사임한다면 바티칸이나 고향인 아르헨티나에 머물지 않고 로마에서 주교로 살면서 섬기는 삶을 이어가고 싶다는 뜻을 밝혔다.",
+      "timex3": []
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S1_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            32,
+            35
+          ],
+          "text": "운영하",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            55,
+            58
+          ],
+          "text": "사임할",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            63,
+            64
+          ],
+          "text": "없",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            75,
+            76
+          ],
+          "text": "열",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            78,
+            79
+          ],
+          "text": "있",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_5",
+          "class": "REPORTING",
+          "extent": [
+            87,
+            89
+          ],
+          "text": "말했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S1_6",
+          "class": "I_STATE",
+          "extent": [
+            105,
+            107
+          ],
+          "text": "전했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 1,
+      "text": "프란치스코 교황은 12일(현지시간) 멕시코계 미디어그룹이 운영하는 스페인어 방송과 인터뷰에서 당장 사임할 계획은 없지만 그럴 가능성은 열려 있다면서 이같이 말했다고 AP·dpa 통신 등이 전했다.",
+      "timex3": [
+        {
+          "id": "TIME_S1_0",
+          "type": "DATE",
+          "extent": [
+            10,
+            13
+          ],
+          "text": "12일",
+          "value": "2022-07-12",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S2_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            60,
+            63
+          ],
+          "text": "물러난",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            69,
+            70
+          ],
+          "text": "이",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            91,
+            92
+          ],
+          "text": "이",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_3",
+          "class": "OCCURRENCE",
+          "extent": [
+            101,
+            104
+          ],
+          "text": "상당한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_4",
+          "class": "OCCURRENCE",
+          "extent": [
+            109,
+            110
+          ],
+          "text": "주",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S2_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            113,
+            114
+          ],
+          "text": "했",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 2,
+      "text": "교황의 자진 사임은 프란치스코 교황의 전임자 베네딕토 16세가 임명 8년 만인 2013년 3월 건강 문제로 물러난 것이 처음이다. 가톨릭 역사상 600여년 만의 일이어서 신자들에게 상당한 충격을 주기도 했다.",
+      "timex3": [
+        {
+          "id": "TIME_S2_0",
+          "type": "DURATION",
+          "extent": [
+            38,
+            40
+          ],
+          "text": "8년",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        },
+        {
+          "id": "TIME_S2_1",
+          "type": "DATE",
+          "extent": [
+            44,
+            52
+          ],
+          "text": "2013년 3월",
+          "value": "2013-03",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        },
+        {
+          "id": "TIME_S2_2",
+          "type": "DURATION",
+          "extent": [
+            81,
+            86
+          ],
+          "text": "600여년",
+          "value": "P600Y",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S3_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            36,
+            39
+          ],
+          "text": "평가했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_1",
+          "class": "OCCURRENCE",
+          "extent": [
+            69,
+            70
+          ],
+          "text": "이",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_2",
+          "class": "OCCURRENCE",
+          "extent": [
+            85,
+            88
+          ],
+          "text": "처리했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_3",
+          "class": "I_STATE",
+          "extent": [
+            91,
+            94
+          ],
+          "text": "생각한",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_4",
+          "class": "I_ACTION",
+          "extent": [
+            98,
+            99
+          ],
+          "text": "했",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_5",
+          "class": "OCCURRENCE",
+          "extent": [
+            58,
+            61
+          ],
+          "text": "성스럽",
+          "comment": ""
+        },
+        {
+          "id": "EVENT_S3_6",
+          "class": "OCCURRENCE",
+          "extent": [
+            63,
+            66
+          ],
+          "text": "신중한",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 3,
+      "text": "올해 85세인 프란치스코 교황은 전임자의 사임 결단을 긍정적으로 평가했다. 그는 \"(베네딕토 16세가) 성스럽고 신중한 사람이었으며 (사임 문제를) 잘 처리했다고 생각한다\"고 했다.",
+      "timex3": [
+        {
+          "id": "TIME_S3_0",
+          "type": "DATE",
+          "extent": [
+            0,
+            2
+          ],
+          "text": "올해",
+          "value": "2022",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [
+        {
+          "id": "EVENT_S4_0",
+          "class": "OCCURRENCE",
+          "extent": [
+            3,
+            6
+          ],
+          "text": "사임한",
+          "comment": ""
+        }
+      ],
+      "sentence_id": 4,
+      "text": "다만 사임한 전임 교황을 어떻게 예우하는 게 맞는지를 두고는 \"차후에 명확한 정리가 필요하다\"는 입장을 내비쳤다.",
+      "timex3": [
+        {
+          "id": "TIME_S4_0",
+          "type": "DATE",
+          "extent": [
+            35,
+            37
+          ],
+          "text": "차후",
+          "value": "",
+          "calendar": "GREGORIAN",
+          "year": "",
+          "month": "",
+          "day": "",
+          "hour": "",
+          "minute": "",
+          "second": "",
+          "week": "",
+          "weekday": "",
+          "mod": "APPROX",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "event": [],
+      "sentence_id": 5,
+      "text": "베네딕토 16세가 명예교황으로서 교황 시절 이름을 그대로 쓰며 동일한 흰색 성복을 입는 점을 두고 종교계에 논란이 있다는 점을 거론한 것이다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 6,
+      "text": "프란치스코 교황은 사임을 했을 경우 바티칸에 있거나 아르헨티나로 돌아갈 것이냐고 묻자 \"분명히 아닐 것\"이라고 했다. 이어 로마의 산조반니 인 라테라노 성당에 머무는 건 어떻겠느냐는 질문에는 \"아마도\"라고 답했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 7,
+      "text": "그는 \"나는 로마의 주교\"라면서 \"이런(교황에서 사임한) 경우라면 로마의 명예주교일 것\"이라고 언급하기도 했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 8,
+      "text": "또, 교황에 선출되기 전 대주교로서 퇴임하면 성당에서 신자들의 고해성사를 듣고 병원 환자를 찾아가는 삶을 떠올리곤 했다면서 \"내가 만약 살아 있는 채 사임한다면 이런 시나리오를 생각한다\"고 말했다.",
+      "timex3": []
+    },
+    {
+      "event": [],
+      "sentence_id": 9,
+      "text": "프란치스코 교황은 낙태권을 옹호하는 가톨릭 정치인이 성사(聖事)를 계속 받을 수 있느냐는 질의에는 \"선출된 공직자들이 스스로 일을 해결하는 것은 양심의 문제\"라고 답했다. 조 바이든 미국 대통령과 낸시 펠로시 하원의장은 독실한 천주교 신자이면서도 가톨릭계가 반대하는 낙태권을 지지하고 있다.",
+      "timex3": []
+    }
+  ],
+  "tlink": [
+    {
+      "id": "TLINK_0",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S1_0",
+      "arg2": "EVENT_S0_0",
+      "comment": ""
+    },
+    {
+      "id": "TLINK_1"
+    },
+    {
+      "id": "TLINK_2",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S2_0",
+      "arg2": "EVENT_S2_0",
+      "comment": ""
+    },
+    {
+      "id": "TLINK_3",
+      "relType": "INCLUDES",
+      "arg1": "TIME_S3_0",
+      "arg2": "EVENT_S3_0",
+      "comment": ""
+    }
+  ],
+  "meta_info": {
+    "Dataset.category": "news_category",
+    "Dataset.identifier": "News",
+    "Dataset.label_path": "/news/label",
+    "Dataset.name": "매일경제 뉴스 데이터",
+    "Dataset.src_path": "/news",
+    "Dataset.type": "text/json",
+    "info.category": "뉴스",
+    "info.date_collected": "2022-07-15",
+    "info.date_created": "2022-07-01",
+    "info.filename": "매일경제013.txt",
+    "info.medianame": "매일경제 뉴스",
+    "info.mediatype": "document",
+    "info.title": "뉴스 제목"
+  },
+  "lastModified": {
+    "$date": "2022-07-22T03:07:59.252Z"
+  }
+}
