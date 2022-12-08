@@ -1,8 +1,0 @@
-올해 기준으로 대전 맛집 좀 추천해주세요~	DURATION-B O O O O EVENT-B
-제가 올해 가본 맛집중에 추천할 만한 맛집은 가양동에 있는 적덕식당을 추천할께요 .	O DATE-B EVENT-B O EVENT-B O O O EVENT-B O EVENT-B O
-아~ 무슨 식당인가요? 한식, 중식, 일식? 다음주에 한번 방문해 볼려구요	O O EVENT-B O O O DURATION-B O EVENT-B O
-한식당인데 오징어두부두루치기를 팔고 있어요 어제 저녁에도 다녀왔는데 강추입니다 .	O O EVENT-B EVENT-B DATE-B DATE-I EVENT-B O O
-아아~ 갑자기 급땡기네요...그냥 오늘당장 가봐야 겠네요. 한달 전에 대동에 있는 족발집을 갔는데요. 넘넘 막있더라구요	O O EVENT-B DATE-B EVENT-B O DATE-B DATE-I O EVENT-B O EVENT-B O EVENT-B
-대전에는 맛집이 많은가 봐요 ㅎㅎㅎ	O O O O O
-맞아요 대전에 생각보다 맛집이 많아요 .	O O O O O O
-하지만 대전하면 성심당을 빼놓을 수 없죠! 지난주 일요일에 다녀왔는데 다른 지역 사람들이 놀러 오면 항상 방문하는 것 같아요	O O O EVENT-B O EVENT-B DATE-B DATE-I EVENT-B O O O O EVENT-B DATE-B EVENT-B O EVENT-B
