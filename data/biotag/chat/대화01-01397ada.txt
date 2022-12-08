@@ -1,6 +1,6 @@
-제가 내일 소개팅을 하는데 혹시 추천해 주실 만한 장소가 있을까요?	O O O DATE-B DATE-I O O O O O O EVENT-B O O O O O O O O O O O O O O O O O O O O EVENT-B O O O O
-내일 소개팅을 하시는 지역이 어디인가요?	DATE-B DATE-I O O O O O O EVENT-B O O O O O O O EVENT-B EVENT-I EVENT-I O O O
-둔산동에서 만나기로 했습니다.	O O O O O O EVENT-B EVENT-I O O O EVENT-B O O O O
-둔산동이면 제가 지난주에 방문했던 홀리크로스 카페 추천드려요.	O O O O O O O O O DATE-B DATE-I DATE-I O O EVENT-B EVENT-I EVENT-I O O O O O O O O O O O O O EVENT-B EVENT-I O O
-혹시 카페 분위기가 어떤가요? 내일이 소개팅인데 준비한 게 없네요.	O O O O O O O O O O O EVENT-B EVENT-I O O O O DATE-B DATE-I O O O O O O O O EVENT-B EVENT-I EVENT-I O O O EVENT-B O O O
-층고도 높고 따뜻한 분위기인 카페에요. 내일 소개팅 잘되시길 바라겠습니다.	O O O O O O O O O O O O O O O O O O O O O O DATE-B DATE-I O O O O O EVENT-B EVENT-I O O O EVENT-B EVENT-I O O O O O
+제가 내일 소개팅을 하는데 혹시 추천해 주실 만한 장소가 있을까요?	O O O DATE-B DATE-I O O O O O O OCCURRENCE-B O O O O O O O O O O O O O O O O O O O O OCCURRENCE-B O O O O
+내일 소개팅을 하시는 지역이 어디인가요?	DATE-B DATE-I O O O O O O OCCURRENCE-B O O O O O O O OCCURRENCE-B OCCURRENCE-I OCCURRENCE-I O O O
+둔산동에서 만나기로 했습니다.	O O O O O O OCCURRENCE-B OCCURRENCE-I O O O OCCURRENCE-B O O O O
+둔산동이면 제가 지난주에 방문했던 홀리크로스 카페 추천드려요.	O O O O O O O O O DATE-B DATE-I DATE-I O O OCCURRENCE-B OCCURRENCE-I OCCURRENCE-I O O O O O O O O O O O O O OCCURRENCE-B OCCURRENCE-I O O
+혹시 카페 분위기가 어떤가요? 내일이 소개팅인데 준비한 게 없네요.	O O O O O O O O O O O OCCURRENCE-B OCCURRENCE-I O O O O DATE-B DATE-I O O O O O O O O OCCURRENCE-B OCCURRENCE-I OCCURRENCE-I O O O OCCURRENCE-B O O O
+층고도 높고 따뜻한 분위기인 카페에요. 내일 소개팅 잘되시길 바라겠습니다.	O O O O O O O O O O O O O O O O O O O O O O DATE-B DATE-I O O O O O OCCURRENCE-B OCCURRENCE-I O O O OCCURRENCE-B OCCURRENCE-I O O O O O

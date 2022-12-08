@@ -1,4 +1,4 @@
-제가 식당 창업을 다음달에 하는데 코로나가 다시 심해지고 있다고 합니다. 괜찮을까요?	O O O O O O O O O O DATE-B DATE-I DATE-I O O EVENT-B O O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O EVENT-B O O O EVENT-B O O O O O O O O O O
-오늘 코로나 확진자가 37,360명이지만 코로나 인식이 감기와 비슷하게 바뀌어서 괜찮을 거 같아요.	DATE-B DATE-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O EVENT-B EVENT-I O O O O O O O O O EVENT-B O O O
-그렇긴 하지만 다음 달에 10~20만 명 정점을 찍을 거라고 해서 걱정이 앞서네요.	O O O O O O O O DATE-B DATE-I DATE-I DATE-I O O O O O O O O O O O O O O O O O O O O O O EVENT-B O O O O O O EVENT-B EVENT-I O O O
-이미 준비가 끝나신 거 같은데 주사위는 던져졌습니다. 다음 달에 좋은 소식이 있기를 바라야죠.	O O O O O O O EVENT-B EVENT-I O O O O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O O O O DATE-B DATE-I DATE-I DATE-I O O O O O O O O O EVENT-B O O O EVENT-B EVENT-I O O O
+제가 식당 창업을 다음달에 하는데 코로나가 다시 심해지고 있다고 합니다. 괜찮을까요?	O O O O O O O O O O DATE-B DATE-I DATE-I O O OCCURRENCE-B O O O O O O O O O O O OCCURRENCE-B OCCURRENCE-I OCCURRENCE-I O O OCCURRENCE-B O O O OCCURRENCE-B O O O O O O O O O O
+오늘 코로나 확진자가 37,360명이지만 코로나 인식이 감기와 비슷하게 바뀌어서 괜찮을 거 같아요.	DATE-B DATE-I O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O OCCURRENCE-B OCCURRENCE-I O O O O O O O O O OCCURRENCE-B O O O
+그렇긴 하지만 다음 달에 10~20만 명 정점을 찍을 거라고 해서 걱정이 앞서네요.	O O O O O O O O DATE-B DATE-I DATE-I DATE-I O O O O O O O O O O O O O O O O O O O O O O OCCURRENCE-B O O O O O O OCCURRENCE-B OCCURRENCE-I O O O
+이미 준비가 끝나신 거 같은데 주사위는 던져졌습니다. 다음 달에 좋은 소식이 있기를 바라야죠.	O O O O O O O OCCURRENCE-B OCCURRENCE-I O O O O O O O O O O O O O OCCURRENCE-B OCCURRENCE-I OCCURRENCE-I O O O O O DATE-B DATE-I DATE-I DATE-I O O O O O O O O O OCCURRENCE-B O O O OCCURRENCE-B OCCURRENCE-I O O O
