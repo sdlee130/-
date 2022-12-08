@@ -6,7 +6,7 @@ import logging
 import torch
 from torch.utils.data import TensorDataset
 
-from KorTemporalAnnotation.ai_model.utils import get_labels
+from utils import get_labels
 import pdb
 
 logger = logging.getLogger(__name__)
