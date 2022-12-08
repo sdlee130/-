@@ -1,0 +1,5 @@
+지난주에 제 지인이 롱디 커플이 되었는데 롱디 커플이 오래갈 수 있을까요?	DATE-B DATE-I DATE-I O O O O O O O O O O O O O O O EVENT-B O O O O O O O O O O O O O O O O O EVENT-B O O O O
+롱디 커플은 사실 쉽지 않은 것 같아요.	O O O O O O O O O O O O O EVENT-B O O O O EVENT-B O O O
+제 주변에도 롱디 커플인 사람이 있었는데 만나는 시간이 부족해서 많이 힘들어하다가 지난달에 헤어졌거든요.	O O O O O O O O O O O O O O O O O O EVENT-B O O O O O O O O O O O O O O O O O O O O EVENT-B EVENT-I EVENT-I EVENT-I O O O DATE-B DATE-I DATE-I O O EVENT-B EVENT-I EVENT-I O O O O
+정말요? 롱디커플 하는 지인하고 내일 만나서 놀기로 했는데 해줄 만한 조언은 없을까요?	O O O O O O O O O O O O O O O O O O DATE-B DATE-I O O O O O O O O O EVENT-B O O O EVENT-B EVENT-I O O O O O O O O EVENT-B O O O O
+제 지인이라면 통화보다는 화상 통화를 좀 많이 하라고 조언해 줄 거 같아요.	O O O O O O O O O O O O O O O O O O O O O O O EVENT-B O O EVENT-B O O O O O EVENT-B O EVENT-B O O O EVENT-B O O O

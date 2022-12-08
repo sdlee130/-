@@ -1,0 +1,6 @@
+제주도 여행 갈 때 배랑 비행기 중에 뭐가 더 좋다고 생각하시나요?	O O O O O O O O O O O O O O O O O O O O O O O O O O EVENT-B O O O EVENT-B EVENT-I EVENT-I O O O O
+제가 3년 전 배를 타고 제주도를 간 적이 있는데 배를 타니까 낭만이 이런 거구나 느꼈어요.	O O O DATE-B DATE-I DATE-I DATE-I O O O O EVENT-B O O O O O O O EVENT-B O O O O EVENT-B O O O O O O EVENT-B O O O O O O O O O O O O O O EVENT-B EVENT-I O O O
+저도 작년에 제주도를 갈 일이 있어서 배도 타보고 비행기도 타봤는데 뱃멀미에 크게 데여서 비행기가 좋은 거 같아요.	O O O DATE-B DATE-I O O O O O O O EVENT-B O O O O EVENT-B O O O O O O EVENT-B O O O O O O O O EVENT-B O O O O O O O O O O O O O O O O O O O O O EVENT-B O O O O EVENT-B O O O
+정말 힘드셨겠네요.	O O O EVENT-B EVENT-I EVENT-I O O O O
+저도 15년 전 고등학교 수학여행을 갈 때 비행기를 타봤는데 편하기만 하고 뭔가 추억이 쌓이지는 않아서 저는 배를 타고 가는 걸 추천하겠습니다.	O O O DATE-B DATE-I DATE-I DATE-I DATE-I O O O O O O O O O O O O EVENT-B O O O O O O O O EVENT-B EVENT-I O O O EVENT-B EVENT-I O O O O O O O O O O O O O O O O O O EVENT-B O O O O O O O O O EVENT-B O O O O O O O EVENT-B EVENT-I EVENT-I O O O O O
+배를 타면 도착 전에 힘을 다 써버릴 것 같아서 다음 달에 가는 제주도 여행을 비싸지만 비행기로 예약했습니다.	O O O EVENT-B O O O O O O O O O O O O O O O O O O O EVENT-B O O O DATE-B DATE-I DATE-I DATE-I O O EVENT-B O O O O O O O O O O O O O O O O O O O O O O EVENT-B O O O O

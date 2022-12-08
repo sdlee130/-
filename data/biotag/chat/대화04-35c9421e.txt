@@ -1,0 +1,6 @@
+최근에 캠핑을 어디로 다녀오셨나요?	DATE-B DATE-I O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O O O
+저는 지난 주말에 2박3일 정선으로 캠핑을 다녀왔습니다.	O O O DURATION-B DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I DURATION-I O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O O O
+정선 캠핑장은 어떤가요? 저는 지난달에 태안으로 다녀왔었는데 조금 별로였었거든요.	O O O O O O O O O O O O O O O O O DATE-B DATE-I DATE-I O O O O O O O EVENT-B EVENT-I EVENT-I O O O O O O O EVENT-B EVENT-I EVENT-I O O O O O
+제가 갔던 캠핑장은 시설도 깔끔하고 사람들도 조용히 캠핑을 즐겼어요.	O O O O O O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O O O O O O O O O O O O O O EVENT-B EVENT-I O O O
+갑자기 캠핑 얘기를 하니까 지난주에 캠핑가서 먹은 통삼겹살이 생각나네요.	O O O O O O O O O O O O O O O DATE-B DATE-I DATE-I O O O O O O O O O O O O O O O O EVENT-B EVENT-I EVENT-I O O O
+오 통삼겹살이라니 오늘저녁은 삼겹살로 먹어야 겠네요.	O O O O O O O O O O O O O O O O O O O O O EVENT-B O O O O O O O
