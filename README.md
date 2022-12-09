@@ -10,6 +10,21 @@
   ```
   pip3 install pymongo wikipedia koalanlp datasets thefuzz
   ```
+  ```
+  pip3 install git+https://git@github.com/SKTBrain/KoBERT.git@master
+  ```
+  ```
+  pip3 install kiwipiepy
+  ```
+  ```
+  pip3 install pymongo wikipedia koalanlp datasets thefuzz
+  ```
+  ```
+  pip3 install tqdm
+  ```
+  ```
+  pip3 install seqeval
+  ```
 
 ### 의존성
 
@@ -20,7 +35,7 @@
 
 ### 사용 방법
 
-TBD
+- TBD
 
 ### 사용 데이터
 
