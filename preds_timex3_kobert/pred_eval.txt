@@ -15,9 +15,9 @@
 격 O O
 히 O O
   O O
-불 UNK UNK
-어 UNK UNK
-난 UNK UNK
+불 OCCURRENCE-B OCCURRENCE-B
+어 OCCURRENCE-I OCCURRENCE-I
+난 OCCURRENCE-I OCCURRENCE-I
   O O
 소 O O
 상 O O
@@ -39,9 +39,9 @@
 원 O O
 을 O O
   O O
-매 UNK UNK
-입 UNK UNK
-해 UNK UNK
+매 OCCURRENCE-B OCCURRENCE-B
+입 OCCURRENCE-I OCCURRENCE-I
+해 OCCURRENCE-I OCCURRENCE-I
   O O
 최 O O
 대 O O
@@ -56,13 +56,13 @@
 금 O O
 을 O O
   O O
-감 UNK O
-면 UNK O
-하 UNK O
+감 OCCURRENCE-B O
+면 OCCURRENCE-I O
+하 OCCURRENCE-I O
 기 O O
 로 O O
   O O
-했 UNK UNK
+했 OCCURRENCE-B OCCURRENCE-B
 다 O O
 . O O
   O O
@@ -147,17 +147,17 @@
 이 O O
 나 O O
   O O
-몰 UNK O
-려 UNK O
-든 UNK O
+몰 OCCURRENCE-B O
+려 OCCURRENCE-I O
+든 OCCURRENCE-I O
   O O
 것 O O
 으 O O
 로 O O
   O O
-집 UNK O
-계 UNK O
-됐 UNK O
+집 OCCURRENCE-B O
+계 OCCURRENCE-I O
+됐 OCCURRENCE-I O
 다 O O
 . O O
   O O
@@ -208,7 +208,7 @@
 훨 O O
 씬 O O
   O O
-높 O O
+높 O OCCURRENCE-B
 았 O O
 지 O O
 만 O O
@@ -277,8 +277,8 @@
 4 O O
 로 O O
   O O
-지 O DATE-B
-난 O DATE-I
+지 O O
+난 O O
 주 O O
 ( O O
 8 O O
@@ -371,7 +371,7 @@ p O O
 안 O O
 을 O O
   O O
-처 O O
+처 O OCCURRENCE-B
 리 O O
 했 O O
 으 O O
@@ -435,7 +435,7 @@ p O O
 로 O O
   O O
 떠 O O
-오 O O
+오 O OCCURRENCE-I
 르 O O
 고 O O
   O O
@@ -499,19 +499,19 @@ p O O
 도 O O
 를 O O
   O O
-갈 UNK UNK
+갈 OCCURRENCE-B OCCURRENCE-B
   O O
 일 O O
 이 O O
   O O
-있 UNK UNK
+있 OCCURRENCE-B OCCURRENCE-B
 어 O O
 서 O O
   O O
 배 O O
 도 O O
   O O
-타 UNK UNK
+타 OCCURRENCE-B OCCURRENCE-B
 보 O O
 고 O O
   O O
@@ -520,8 +520,8 @@ p O O
 기 O O
 도 O O
   O O
-타 UNK UNK
-봤 O UNK
+타 OCCURRENCE-B OCCURRENCE-B
+봤 O OCCURRENCE-I
 는 O O
 데 O O
   O O
@@ -542,12 +542,12 @@ p O O
 기 O O
 가 O O
   O O
-좋 UNK UNK
+좋 OCCURRENCE-B OCCURRENCE-B
 은 O O
   O O
 거 O O
   O O
-같 UNK UNK
+같 OCCURRENCE-B OCCURRENCE-B
 아 O O
 요 O O
 . O O
@@ -567,9 +567,9 @@ p O O
 상 O O
 이 O O
   O O
-이 UNK UNK
-어 UNK UNK
-지 UNK UNK
+이 OCCURRENCE-B OCCURRENCE-B
+어 OCCURRENCE-I OCCURRENCE-I
+지 OCCURRENCE-I OCCURRENCE-I
 면 O O
 서 O O
   O O
@@ -578,13 +578,13 @@ p O O
 자 O O
 가 O O
   O O
-돌 UNK UNK
-려 UNK UNK
-받 UNK UNK
+돌 OCCURRENCE-B OCCURRENCE-B
+려 OCCURRENCE-I OCCURRENCE-I
+받 OCCURRENCE-I OCCURRENCE-I
 지 O O
   O O
 못 O O
-하 UNK UNK
+하 OCCURRENCE-B OCCURRENCE-B
 는 O O
   O O
 전 O O
@@ -602,12 +602,12 @@ p O O
 날 O O
 이 O O
   O O
-불 UNK UNK
-어 UNK UNK
-나 UNK UNK
+불 OCCURRENCE-B OCCURRENCE-B
+어 OCCURRENCE-I OCCURRENCE-I
+나 OCCURRENCE-I OCCURRENCE-I
 고 O O
   O O
-있 UNK UNK
+있 OCCURRENCE-B OCCURRENCE-B
 다 O O
 . O O
   O O
@@ -629,9 +629,9 @@ p O O
 고 O O
 에 O O
   O O
-대 UNK O
-비 UNK O
-하 UNK O
+대 OCCURRENCE-B O
+비 OCCURRENCE-I O
+하 OCCURRENCE-I O
 기 O O
   O O
 위 O O
@@ -784,18 +784,18 @@ p O O
 팅 O O
 을 O O
   O O
-하 UNK UNK
+하 OCCURRENCE-B OCCURRENCE-B
 는 O O
 데 O O
   O O
 혹 O O
 시 O O
   O O
-추 O UNK
-천 O UNK
-해 O UNK
+추 O OCCURRENCE-B
+천 O OCCURRENCE-I
+해 O OCCURRENCE-I
   O O
-주 O O
+주 O OCCURRENCE-B
 실 O O
   O O
 만 O O
@@ -805,7 +805,7 @@ p O O
 소 O O
 가 O O
   O O
-있 UNK UNK
+있 OCCURRENCE-B OCCURRENCE-B
 을 O O
 까 O O
 요 O O
@@ -1002,9 +1002,9 @@ p O O
 전 DATE-I DATE-I
 쯤 O O
   O O
-다 UNK UNK
-녀 UNK UNK
-왔 UNK UNK
+다 OCCURRENCE-B OCCURRENCE-B
+녀 OCCURRENCE-I OCCURRENCE-I
+왔 OCCURRENCE-I OCCURRENCE-I
 는 O O
 데 O O
   O O
@@ -1012,7 +1012,7 @@ p O O
 내 O O
 가 O O
   O O
-있 UNK UNK
+있 OCCURRENCE-B OCCURRENCE-B
 어 O O
 서 O O
   O O
@@ -1025,12 +1025,12 @@ p O O
   O O
 안 O O
   O O
-받 UNK UNK
+받 OCCURRENCE-B OCCURRENCE-B
 는 O O
   O O
 게 O O
   O O
-좋 UNK UNK
+좋 OCCURRENCE-B OCCURRENCE-B
 더 O O
 라 O O
 고 O O
@@ -1041,7 +1041,7 @@ p O O
 월 O O
 드 O O
   O O
-하 UNK O
+하 OCCURRENCE-B O
 면 O O
   O O
 역 O O
@@ -1067,13 +1067,13 @@ p O O
 구 O O
 를 O O
   O O
-타 UNK UNK
+타 OCCURRENCE-B OCCURRENCE-B
 는 O O
   O O
 꿈 O O
 을 O O
   O O
-꿨 UNK UNK
+꿨 OCCURRENCE-B OCCURRENCE-B
 는 O O
 데 O O
   O O
@@ -1086,12 +1086,12 @@ p O O
   O O
 안 O O
   O O
-나 UNK O
-와 UNK O
+나 OCCURRENCE-B OCCURRENCE-B
+와 OCCURRENCE-I O
 서 O O
   O O
-아 UNK O
-쉽 UNK O
+아 OCCURRENCE-B O
+쉽 OCCURRENCE-I O
 네 O O
 요 O O
 . O O
@@ -1267,15 +1267,15 @@ p O O
 럽 O O
 게 O O
   O O
-만 UNK O
-나 UNK O
+만 OCCURRENCE-B O
+나 OCCURRENCE-I O
 다 O O
   O O
-보 UNK O
+보 OCCURRENCE-B O
 면 O O
   O O
-급 O O
-하 O O
+급 O OCCURRENCE-B
+하 O OCCURRENCE-I
 게 O O
   O O
 만 O O
@@ -1284,7 +1284,7 @@ p O O
   O O
 것 O O
   O O
-보 O O
+보 O OCCURRENCE-B
 다 O O
 는 O O
   O O
@@ -1293,11 +1293,11 @@ p O O
 깊 O O
 이 O O
   O O
-알 UNK O
+알 OCCURRENCE-B O
   O O
 수 O O
   O O
-있 UNK UNK
+있 OCCURRENCE-B OCCURRENCE-B
 기 O O
   O O
 때 O O
@@ -1314,14 +1314,14 @@ p O O
 남 O O
 을 O O
   O O
-추 UNK UNK
-구 UNK O
-하 UNK UNK
+추 OCCURRENCE-B O
+구 OCCURRENCE-I OCCURRENCE-I
+하 OCCURRENCE-I OCCURRENCE-B
 는 O O
   O O
 것 O O
   O O
-같 UNK UNK
+같 OCCURRENCE-B OCCURRENCE-B
 네 O O
 요 O O
 . O O
@@ -1337,7 +1337,7 @@ p O O
 기 O O
 를 O O
   O O
-하 O UNK
+하 O OCCURRENCE-B
 니 O O
 까 O O
   O O
@@ -1351,7 +1351,7 @@ p O O
 가 O O
 서 O O
   O O
-먹 O O
+먹 O OCCURRENCE-B
 은 O O
   O O
 통 O O
@@ -1360,9 +1360,9 @@ p O O
 살 O O
 이 O O
   O O
-생 UNK UNK
-각 UNK UNK
-나 UNK UNK
+생 OCCURRENCE-B OCCURRENCE-B
+각 OCCURRENCE-I OCCURRENCE-I
+나 OCCURRENCE-I OCCURRENCE-I
 네 O O
 요 O O
 . O O
@@ -1374,7 +1374,7 @@ p O O
 앱 O O
 을 O O
   O O
-쓰 O O
+쓰 O OCCURRENCE-B
 는 O O
   O O
 사 O O
@@ -1382,9 +1382,9 @@ p O O
 들 O O
 이 O O
   O O
-늘 UNK UNK
-어 UNK UNK
-나 UNK UNK
+늘 OCCURRENCE-B OCCURRENCE-B
+어 OCCURRENCE-I OCCURRENCE-I
+나 OCCURRENCE-I OCCURRENCE-I
 는 O O
 데 O O
   O O
@@ -1392,9 +1392,9 @@ p O O
 떻 O O
 게 O O
   O O
-생 O UNK
-각 O UNK
-하 UNK UNK
+생 O OCCURRENCE-B
+각 O OCCURRENCE-I
+하 OCCURRENCE-B OCCURRENCE-I
 세 O O
 요 O O
 ? O O
@@ -1507,8 +1507,8 @@ p O O
 정 O O
 도 O O
   O O
-걸 UNK O
-리 UNK O
+걸 OCCURRENCE-B O
+리 OCCURRENCE-I O
 는 O O
   O O
 현 O O
@@ -1534,13 +1534,13 @@ p O O
 체 O O
 를 O O
   O O
-이 UNK O
-용 UNK O
-하 UNK O
+이 OCCURRENCE-B O
+용 OCCURRENCE-I O
+하 OCCURRENCE-I O
 면 O O
   O O
-이 UNK O
-르 UNK O
+이 OCCURRENCE-B O
+르 OCCURRENCE-I O
 면 O O
   O O
 일 DATE-B O
@@ -1553,12 +1553,12 @@ p O O
 차 O O
 를 O O
   O O
-받 UNK O
+받 OCCURRENCE-B O
 을 O O
   O O
 수 O O
   O O
-있 UNK O
+있 OCCURRENCE-B O
 다 O O
 . O O
   O O
@@ -1664,7 +1664,7 @@ p O O
 세 O O
 를 O O
   O O
-보 O O
+보 O OCCURRENCE-B
 이 O O
 는 O O
   O O
@@ -1931,8 +1931,8 @@ C O O
 등 O O
 에 O O
   O O
-따 O O
-른 O O
+따 O OCCURRENCE-B
+른 O OCCURRENCE-I
   O O
 충 O O
 격 O O
@@ -1967,7 +1967,7 @@ C O O
 치 O O
 가 O O
   O O
-2 O DURATION-B
+2 O O
 0 O O
 0 O O
 2 O O
@@ -2085,9 +2085,9 @@ C O O
 가 O O
 가 O O
   O O
-지 UNK DATE-B
-속 UNK DATE-I
-되 UNK UNK
+지 OCCURRENCE-B OCCURRENCE-B
+속 OCCURRENCE-I OCCURRENCE-I
+되 OCCURRENCE-I OCCURRENCE-I
 면 O O
 서 O O
   O O
@@ -2126,9 +2126,9 @@ Z O O
 ) O O
 를 O O
   O O
-실 UNK UNK
-천 UNK UNK
-하 UNK UNK
+실 OCCURRENCE-B OCCURRENCE-B
+천 OCCURRENCE-I OCCURRENCE-I
+하 OCCURRENCE-I OCCURRENCE-I
 는 O O
   O O
 ' O O
@@ -2145,8 +2145,8 @@ Z O O
 기 O O
 가 O O
   O O
-뜨 UNK UNK
-겁 UNK O
+뜨 OCCURRENCE-B O
+겁 OCCURRENCE-I OCCURRENCE-I
 다 O O
 . O O
   O O
@@ -2261,16 +2261,16 @@ Z O O
 국 O O
 에 O O
   O O
-따 O UNK
-르 O UNK
+따 O OCCURRENCE-B
+르 O OCCURRENCE-I
 면 O O
 , O O
   O O
 올 O DATE-B
 해 O DATE-I
-  O DURATION-I
-3 O DURATION-I
-월 O DURATION-I
+  O DATE-I
+3 O DATE-I
+월 O DATE-I
   O O
 기 O O
 준 O O
@@ -2311,9 +2311,9 @@ Z O O
 ) O O
 를 O O
   O O
-보 O UNK
-유 O UNK
-한 O UNK
+보 O OCCURRENCE-B
+유 O OCCURRENCE-I
+한 O OCCURRENCE-I
   O O
 A O O
 씨 O O
@@ -2331,8 +2331,8 @@ A O O
 금 O O
 을 O O
   O O
-내 O O
-지 O O
+내 O DATE-B
+지 O DATE-I
   O O
 
 내 DATE-B DATE-B
@@ -2341,9 +2341,9 @@ A O O
 바 O O
 로 O O
   O O
-확 UNK UNK
-인 UNK UNK
-해 UNK UNK
+확 OCCURRENCE-B OCCURRENCE-B
+인 OCCURRENCE-I OCCURRENCE-I
+해 OCCURRENCE-I OCCURRENCE-I
 보 O O
 겠 O O
 습 O O
@@ -2693,7 +2693,7 @@ B O O
 율 O O
 이 O O
   O O
-높 O UNK
+높 O OCCURRENCE-B
 은 O O
   O O
 지 O O
@@ -2720,10 +2720,10 @@ B O O
 비 O O
 를 O O
   O O
-하 O UNK
+하 O OCCURRENCE-B
 고 O O
   O O
-있 O UNK
+있 O OCCURRENCE-B
 다 O O
 . O O
   O O
@@ -2734,7 +2734,7 @@ B O O
 이 O O
 상 O O
   O O
-된 O UNK
+된 O OCCURRENCE-B
   O O
 노 O O
 후 O O
@@ -2753,8 +2753,8 @@ B O O
 % O O
 에 O O
   O O
-달 O UNK
-하 O UNK
+달 O OCCURRENCE-B
+하 O OCCURRENCE-I
 는 O O
   O O
 인 O O
@@ -2980,9 +2980,9 @@ B O O
 세 O O
 를 O O
   O O
-이 O UNK
-어 O UNK
-왔 O UNK
+이 O OCCURRENCE-B
+어 O O
+왔 O OCCURRENCE-I
 는 O O
 데 O O
 , O O
@@ -3102,13 +3102,13 @@ U O O
 이 O O
 가 O O
   O O
-어 UNK UNK
-려 UNK O
+어 OCCURRENCE-B OCCURRENCE-B
+려 OCCURRENCE-I OCCURRENCE-I
 서 O O
   O O
-걱 UNK O
-정 UNK O
-이 UNK O
+걱 I_STATE-B O
+정 I_STATE-I O
+이 I_STATE-I O
 신 O O
   O O
 거 O O
@@ -3122,15 +3122,15 @@ U O O
   O O
 안 O O
   O O
-하 UNK UNK
+하 OCCURRENCE-B OCCURRENCE-B
 셔 O O
 도 O O
   O O
-될 UNK UNK
+될 OCCURRENCE-B OCCURRENCE-B
   O O
 거 O O
   O O
-같 UNK UNK
+같 OCCURRENCE-B OCCURRENCE-B
 아 O O
 요 O O
 . O O
@@ -3165,9 +3165,9 @@ U O O
 텝 O O
 을 O O
   O O
-단 UNK O
-행 UNK O
-하 UNK O
+단 OCCURRENCE-B O
+행 OCCURRENCE-I O
+하 OCCURRENCE-I O
 고 O O
 , O O
   O O
@@ -3186,9 +3186,9 @@ U O O
 조 O O
 를 O O
   O O
-이 UNK O
-어 UNK O
-가 UNK O
+이 OCCURRENCE-B O
+어 OCCURRENCE-I O
+가 OCCURRENCE-I O
 겠 O O
 다 O O
 고 O O
@@ -3214,9 +3214,9 @@ U O O
 축 O O
 이 O O
   O O
-이 UNK O
-어 UNK O
-질 UNK O
+이 OCCURRENCE-B O
+어 OCCURRENCE-I O
+질 OCCURRENCE-I O
   O O
 것 O O
 
@@ -3478,8 +3478,8 @@ B O O
 ) O O
 는 O O
   O O
-1 O O
-4 O O
+1 O DATE-B
+4 O DATE-I
 일 O O
   O O
 L O O
@@ -3583,7 +3583,7 @@ G O O
 사 O O
 를 O O
   O O
-듣 O UNK
+듣 O OCCURRENCE-B
 고 O O
   O O
 병 O O
@@ -3593,7 +3593,7 @@ G O O
 자 O O
 를 O O
   O O
-찾 O UNK
+찾 O O
 아 O O
 가 O O
 는 O O
@@ -3601,12 +3601,12 @@ G O O
 삶 O O
 을 O O
   O O
-떠 O UNK
-올 O UNK
-리 O UNK
+떠 O OCCURRENCE-B
+올 O OCCURRENCE-I
+리 O O
 곤 O O
   O O
-했 O UNK
+했 O OCCURRENCE-B
 다 O O
 면 O O
 서 O O
@@ -3621,7 +3621,7 @@ G O O
 살 O O
 아 O O
   O O
-있 O UNK
+있 O OCCURRENCE-B
 는 O O
   O O
 채 O O
@@ -3646,8 +3646,8 @@ G O O
 자 O O
 를 O O
   O O
-이 O O
-어 O O
+이 O OCCURRENCE-B
+어 O OCCURRENCE-I
 온 O O
   O O
 부 O O
@@ -3704,7 +3704,7 @@ G O O
 두 O O
 고 O O
   O O
-있 O O
+있 O OCCURRENCE-B
 다 O O
 . O O
   O O
@@ -3724,9 +3724,9 @@ G O O
 주 DATE-I DATE-I
 에 O O
   O O
-방 UNK UNK
-문 UNK UNK
-했 UNK UNK
+방 OCCURRENCE-B OCCURRENCE-B
+문 OCCURRENCE-I OCCURRENCE-I
+했 OCCURRENCE-I OCCURRENCE-I
 던 O O
   O O
 홀 O O
@@ -3739,9 +3739,9 @@ G O O
 페 O O
   O O
 추 O O
-천 O UNK
-드 UNK UNK
-려 UNK UNK
+천 O OCCURRENCE-I
+드 OCCURRENCE-B O
+려 OCCURRENCE-I O
 요 O O
 . O O
 
