@@ -9,7 +9,7 @@ import torch
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from transformers import AdamW, get_linear_schedule_with_warmup
 
-from KorTemporalAnnotation.ai_model.utils import compute_metrics_tlink, get_labels, get_test_texts, show_report, MODEL_CLASSES
+from utils import compute_metrics_tlink, get_labels, get_test_texts, show_report, MODEL_CLASSES
 
 logger = logging.getLogger(__name__)
 
